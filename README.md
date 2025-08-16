@@ -31,6 +31,6 @@
 ### 📊 Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
 <br/>
-  [![Stats](https://github-readme-stats.vercel.app/api?username=jocttavio&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=jocttavio&show_icons=true&theme=radical)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=jocttavio&show_icons=true&theme=radical)
 
 
